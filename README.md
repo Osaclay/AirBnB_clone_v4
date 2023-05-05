@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Osamede Osunde - [Github](https://github.com/Osaclay) / [Linkedin](https://www.linkedin.com/in/osamede-osunde)
+Osamede Osunde - [Github](https://github.com/Osaclay) / [Linkedin](https://www.linkedin.com/osamede-osunde)
 
 TIESSIA ADAMA - [Github](https://github.com/adamsbola) /[Twitter](https://twitter.com/TiessiaA)
 
