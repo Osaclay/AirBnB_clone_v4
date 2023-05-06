@@ -161,7 +161,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Osamede Osunde - [Github](https://github.com/Osaclay) / [Linkedin](https://www.linkedin.com/in/osamede-osunde)
 
-TIESSIA ADAMA - [Github](https://github.com/adamsbola) /[Twitter](https://twitter.com/TiessiaA) 1
+TIESSIA ADAMA - [Github](https://github.com/adamsbola) /[Twitter](https://twitter.com/TiessiaA)
 
 Second part of Airbnb: Joann Vuong
 ## License
